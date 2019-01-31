@@ -1,2 +1,2 @@
-# ml
+# ML
 Let's study ML
